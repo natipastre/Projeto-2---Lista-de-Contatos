@@ -1,4 +1,5 @@
 Projeto 2 - Lista de Contatos 🚀
+
 Este é um projeto realizado durante o curso "Web Front End" na Udemy, com foco em HTML e CSS. O projeto consiste em uma página de lista de contatos, onde apliquei os conceitos aprendidos de formatação e estruturação de páginas web.
 
 📋 Descrição
@@ -11,6 +12,7 @@ Visualizar o Projeto:
 👉 https://natipastre.github.io/Projeto-2---Lista-de-Contatos/
 
 🛠️ Tecnologias utilizadas
+
 HTML 📄
 
 CSS 🎨
