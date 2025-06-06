@@ -1,19 +1,23 @@
-Projeto 2 - Lista de Contatos 🚀
+# 📇 Projeto 2 – Lista de Contatos
 
-Este é um projeto realizado durante o curso "Web Front End" na Udemy, com foco em HTML e CSS. O projeto consiste em uma página de lista de contatos, onde apliquei os conceitos aprendidos de formatação e estruturação de páginas web.
+Este é um projeto realizado durante o curso **"Web Front End"** na plataforma **Udemy**, com foco em **HTML** e **CSS**.
 
-📋 Descrição
-A página exibe uma lista de contatos fictícios, com imagens, nomes e e-mails. As informações dos contatos foram geradas automaticamente através da API do randomuser.me, garantindo a diversidade e realismo dos dados.
+## 🌐 Visualizar o Projeto
 
-O objetivo principal foi colocar em prática a construção de layouts e a manipulação de elementos HTML, além de estilizar a página com CSS.
+🔗 [Clique aqui para acessar a Lista de Contatos](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)
 
-🌐 Como acessar
-Visualizar o Projeto:
-👉 https://natipastre.github.io/Projeto-2---Lista-de-Contatos/
+## 📋 Descrição
 
-🛠️ Tecnologias utilizadas
+A página exibe uma lista de **contatos fictícios**, com **imagens, nomes e e-mails**.  
+As informações dos contatos foram geradas automaticamente através da **API [randomuser.me](https://randomuser.me/)**, garantindo diversidade e realismo aos dados.
 
-HTML 📄
+O objetivo principal foi colocar em prática a construção de layouts, a manipulação de elementos HTML e a estilização com CSS.
 
-CSS 🎨
+## 🛠️ Tecnologias Utilizadas
 
+- HTML5 📄  
+- CSS3 🎨
+
+
+
+LinkedIn https://www.linkedin.com/in/natalia-pastre/
