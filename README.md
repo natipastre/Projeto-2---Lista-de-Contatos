@@ -5,7 +5,7 @@ Este é um projeto realizado durante o curso **"Web Front End"** na plataforma *
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/cLpHj5ST/lista-de-contatos.png" alt="Lista de Contatos - prévia do projeto" width="500"/>
+  <img src="https://i.postimg.cc/cLpHj5ST/lista-de-contatos.png" alt="Lista de Contatos - prévia do projeto" width="400"/>
 </p>
 
 ---
