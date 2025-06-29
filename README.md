@@ -5,7 +5,7 @@ Este é um projeto realizado durante o curso **"Web Front End"** na plataforma *
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/P5N3cCqd/lista-de-contatos.png" alt="Lista de Contatos - prévia do projeto" width="700"/>
+  <img src="https://i.postimg.cc/cLpHj5ST/lista-de-contatos.png" alt="Lista de Contatos - prévia do projeto" width="700"/>
 </p>
 
 ---
@@ -34,4 +34,3 @@ O objetivo principal foi colocar em prática a construção de layouts, a manipu
 
 Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
 [🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
-
