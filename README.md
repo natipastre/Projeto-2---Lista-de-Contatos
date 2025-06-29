@@ -10,10 +10,6 @@ Este é um projeto realizado durante o curso **"Web Front End"** na plataforma *
 
 ---
 
-## 🌐 Visualizar o Projeto
-
-🔗 [Clique aqui para acessar a Lista de Contatos](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)
-
 ---
 
 ## 📋 Descrição
@@ -24,6 +20,10 @@ As informações dos contatos foram geradas automaticamente através da **API [r
 O objetivo principal foi colocar em prática a construção de layouts, a manipulação de elementos HTML e a estilização com CSS.
 
 ---
+
+## 🌐 Visualizar o Projeto
+
+🔗 [Clique aqui para acessar a Lista de Contatos](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)
 
 ## 🛠️ Tecnologias Utilizadas
 
